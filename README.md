@@ -17,4 +17,6 @@ Additional types can be added in the future, but these are the types implemented
 
 # Functions
 
-The `pallet-orbit-db` is a runtime module on Social 🌎 Network and is implemented as follows:
+The `pallet-orbit-db` is a runtime module implemented as follows:
+
+-
